@@ -12,7 +12,7 @@ const Navbarlanding = () => {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-green-600 to-yellow-600 bg-clip-text text-transparent">
-                  GreenLeaf
+                  Wallet-Wise
                 </h1>
               </div>
             </div>
