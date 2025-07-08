@@ -31,6 +31,8 @@ A modern, full-featured Expense Tracker built using the **MERN stack (MongoDB, E
 - MERN STACK[MongoDb/Express JS/React Js/Node Js]
 
   ![Screenshot 2025-07-07 141937](https://github.com/user-attachments/assets/f111f50f-1685-4017-ba51-3a4b0aff4de4)
+  ![Screenshot 2025-07-08 220102](https://github.com/user-attachments/assets/870f7c9b-d92c-4820-aca4-ea9d4893046b)
+
   ![Screenshot 2025-07-08 220122](https://github.com/user-attachments/assets/65c1a4c6-e460-4618-bd9e-65453fe5fb6a)
   ![Screenshot 2025-07-08 215727](https://github.com/user-attachments/assets/c9a202d8-66ba-4991-9e46-04c1357e051b)
 
