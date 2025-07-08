@@ -9,7 +9,7 @@ A modern, full-featured Expense Tracker built using the **MERN stack (MongoDB, E
 
 ### 🔐 Authentication
 - **JWT-based secure authentication**
-- User login, registration, and session handling
+- User login, registration
 - Protected routes with access control
 
 ### 💰 Expense Tracking
@@ -23,10 +23,7 @@ A modern, full-featured Expense Tracker built using the **MERN stack (MongoDB, E
 - Generate **compact financial reports**
 - Track **remaining budget** for the current month
 
-### 📆 Trends & History
-- View daily/weekly/monthly expense trends
-- Number of expenses tracked
-- Insightful year-over-year analysis
+
 
 ---
 
